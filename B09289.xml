@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ireland.  By the Lord Deputy and Council. Whereas, notwithstanding the many wayes and mean formerly declared and published for the prevention of the many rapines, murthers, thefts, burnings and spoils, done and committed on the poor inhabitants of this nation, by Tories, Irish rebels, and other desperate persons, their confederates and accomplices ...</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09289</idno><idno type="EEBO-CITATION">69648705</idno>
+  <idno type="VID">184952</idno>
+  <idno type="EEBO-PROQUEST">2240864052</idno>
+  
+            <idno type="OCLC"> 69648705</idno>
+            <idno type="STC">Wing I344A</idno>
+            <idno type="STC">ESTC R178609</idno>
+            <idno type="OCLC">69648705</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09289)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184952)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2881:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ireland.  By the Lord Deputy and Council. Whereas, notwithstanding the many wayes and mean formerly declared and published for the prevention of the many rapines, murthers, thefts, burnings and spoils, done and committed on the poor inhabitants of this nation, by Tories, Irish rebels, and other desperate persons, their confederates and accomplices ...</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by VVilliam Bladen,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>"Ordered by the Lord Deputy and Council, that this declaration be forthwith printed and published.  Thomas Herbert Clerk of the Council."</note>
+                  <note>Reproduction of original in: Library Company of Philadelphia.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  1649-1660 --  Sources.</term>
+               <term type="geographic_name">Ireland --  Politics and government --  17th century --  Sources.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:184952:1"/>
+            <head>IRE-<figure>
+                  <figDesc>coat of arms of the Commonwealth of England, circa 1653</figDesc>
+               </figure>LAND.</head>
+            <head type="sub">¶ By the Lord Deputy and Council.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas, notwithstanding the many wayes and means formerly Declared and Published for the prevention of the many Rapines, Murthers, Thefts, Burnings and Spoils, done and committed on the poor Inhabitants of this Nation, by To<g ref="char:EOLhyphen"/>ries, Irish Rebels, and other desperate persons, their Confederates and Accomplices; who, through the singular mer<g ref="char:EOLhyphen"/>cie of the Lord, having been driven from Garrisons, Castles, and places of strength, do now betake themselves to Bogs and Woods, and therely privatly lurking, and secretly watching for all opportunities to committ their said Rapines, Murthers, Thefts, Spoils, and other Insolencies, which, through the blessing of the Lord, might be prevented, if the Irish Inhabitants of this Nation (contrary to the Declarations held forth and published) did not privatly give or send relief, maintain<g ref="char:EOLhyphen"/>ance and succor unto them; whereby sundry persons living under the Protection of the English Government, and do not give such relief and succor unto such Tories, Irish Rebels and other confederates, are dayly taken out of their houses in the night time, and som<g ref="char:EOLhyphen"/>time set upon as they travel upon the Highway, and otherwise suddenly surprized by such desperate persons, and carryed into Woods and Bogs, and there are murthered, or kept in a miserable manner, in cold, nakedness and hunger; and their houses burned, and their goods stollen and carried away, until they do pay a ransom for their deliverance; whereby such desperate persons, as abovesaid, are em<g ref="char:EOLhyphen"/>boldened further to committ the like Insolencies upon others, to the great terror of the poor people that live in obedience, and under the Protection of His Highness the Lord Protector, and of the English Government. The Lord Deputy and Council taking the pre<g ref="char:EOLhyphen"/>mises into Consideration, have thought fit to Declare and Order, and do hereby Declare and Order.</p>
+            <p n="1">I. That Watch and Ward, Hue and Cry be duely kept and observed in all parts of this Nation, according to Law, and the many Declarations formerly held forth and published to that purpose; and that due and frequent searches be made in all Towns and Villa<g ref="char:EOLhyphen"/>ges, for all Felons, Rogues, Vagabonds, and Idlers; and that they receive due punishment, according to Law; and that all Sherifs, Iustices of the Peace, Lords of Liberties, and all other Officers and Ministers of Iustice, within their respective Iurisdictions and Liber<g ref="char:EOLhyphen"/>ties, do cause all such persons as neglect to do their dutie in the premises, to be punished according to Law.</p>
+            <p n="2">II. That in all Counties, Baronies and Towns where any persons (living under the obedience and Protection of the English Govern<g ref="char:EOLhyphen"/>ment) shall be taken out of his house or elswhere by any Tories, Rebels, or other their said Confederates and Accomplices, and mur<g ref="char:EOLhyphen"/>thered in the place where he is or shall be apprehended and taken; or in any other place afterwards; and the Murtherers, and other per<g ref="char:EOLhyphen"/>sons that committed such Murther, be not taken and apprehended, and brought before some Iustice of Peace, or other Officer or Minister of Iustice, to be punished according to Law: That then, the Officer commanding in chief in the County where such Murther is or shall be done and committed, together with one or more of the Iustices of the Peace of that County, do make diligent enquiry and search for such offenders, and use all good wayes and means for the apprehending of such person or persons as committed the said Murthers, and we reacting, aiding, and assisting thereunto; and committ them to Prison, there to be safely kept, till they be delivered by due course of Law. And in case such persons cannot be apprehended and taken, that then the said Officer commanding in chief, as aforesaid, and the Iustice and Iustices of the Peace, as aforesaid, shall and may, and they are hereby authorized and required to apprehend or cause to be apprehended, four persons that are of the Irish Nation and of the Popish Religion, residing or inhabiting in or near the place where such persons were so taken or Murthered, and that did not aid and assist the persons so taken and Murthered, nor cause the Murtherers and their Accomplices to be taken and apprehended; and such Officer, Iustice and Iustices of the Peace, or any two or more of them, shall and may committ such four persons to some Gaol or other safe custody, for the space of Twenty eight days; and if in that time and space the said Murtherers be not taken and brought to justice, that then it shall and may be lawfull to and for the said Officer, Iustice and Iustices of the Peace to send the said four persons to some convenient Port in this Nation, and there to be committed and kept in Pri<g ref="char:EOLhyphen"/>son, untill he or they shall be shipt away and sent to some of the English Plantations in <hi>America;</hi> and the Officer commanding in chief in such Port Town or County, or two or more of the Iustices of Peace in the said Port Town, or next adjoyning to the same, shall &amp; may cause such persons to be shipt and sent away into some of the English Plantations in <hi>America;</hi> and to cause them to be safely kept in Pri<g ref="char:EOLhyphen"/>son, untill they shall be so shipt and sent away. And farther the said Officer commanding in chief in such Counties where such Murther is or shall be done and committed, and any one or more of the Iustices of the Peace of the said Counties where such Murther is or shall be done and committed, shall and may, and are hereby authorized and required to cause all the Irish Inhabitants of the Popish Religion, of that Barony, where such person was so taken and murthered, to be transplanted into the Province of <hi>Connaught</hi> or County of <hi>Clare,</hi> and there to be ordered and settled as other persons, formerly Declared to be transplantable into <hi>Connaught</hi> or <hi>Clare,</hi> ought to be ordered, settled, and provided for.</p>
+            <pb facs="tcp:184952:2"/>
+            <pb facs="tcp:184952:3"/>
+            <p n="1">1 <hi>Provided,</hi> That no person of the Irish Nation be shipt or sent into <hi>America,</hi> as abovesaid, or transplanted, as abovesaid, that did aid and assist the person or persons, taken and murthered as abovesaid; or did keep Watch, and timely set up the Hue and Cry, and there<g ref="char:EOLhyphen"/>of shall make due proof before the said Officer commanding in chief, and the said Iustice of Peace.</p>
+            <p n="2">2 <hi>Provided</hi> also, That no person be shipt away, or sent into any the English Plantations in <hi>America,</hi> as abovesaid; or transplanted as abovesaid, that have, or (before such Murther done and committed, as abovesaid) shall make due proof, before the Commissioners appointed for the Adjudication of the Qualifications mentioned in the Act of Settlement, of their constant good affection to the Interest of the Common-wealth of <hi>England;</hi> nor to such persons who are not Declared by the Instructions of the Councl of State in <hi>England,</hi> bearing date the 2 of <hi>Iuly</hi> 1653, and since confirmed by Parliament, to be persons liable to be transplanted into <hi>connaught</hi> or Countie of <hi>Clare.</hi>
+            </p>
+            <p n="3">3 <hi>Provided</hi> also, That no person be shipt or sent away into the English Plantations, as abovesaid, untill the Names of such persons be signified to the Lord Deputy and Council; with the grounds and reasons of the suspition of such persons who lave relieved such To<g ref="char:EOLhyphen"/>ries, Rebels, and their Confederates; or of their neglect of giving timely notice thereof; or of their neglect in dusing the Watch and Ward to be duely kept; but such persons shall be disposed of according to the Order of the Lord Deputy and Council.</p>
+            <p n="3">III. That where any person or persons, that now or hereafter shall live peaceablie under the protection of the English Government, and so living and being, shall be taken and kept by Tories and Irish Rebels, in Bogs, Woods or other places, and by them put to ran<g ref="char:EOLhyphen"/>som, or otherwise imprisoned; or whose houses are or shall be burned, or their goods taken and driven away; or they, their Wives, Children, or servants maimed &amp; abused by such Tories, Irish Rebels, and their Confederates: In all such cases, upon complaint thereof made to the Officer commanding in chief in such Countie where such Robberies, Thefts, Imprisonments, Maiming, or other Abuses, contrary to the Peace, shall be done and committed, or to the Sherif of the said County, or to any Iustice or Iustice of the Peace with<g ref="char:EOLhyphen"/>in the said Countie; the said Officer, Sherif, Iustice and Iustices of the Peace, or any two or more of them, shall and are hereby authori<g ref="char:EOLhyphen"/>zed to make due enquirie by whom such Robberies, Thefts, Imprisonments, Maimings, and other Abuses, contrary to the Peace, are and were done; and of their abetters, aiders, or assistants; and to cause all such offenders to be committed to Prison, and proceeded a<g ref="char:EOLhyphen"/>gainst according to Law; and in case the said offences done, were done by any Tories and Irish Rebels, or their Confederates, that are fled and cannot be found, that then enquiry is to be made by the said Iustices of the Peace and persons abovesaid, of any two or more of them, of all such person and persons, who did harbor, receive, lodge, or give any relief to such Tories, Rebels, or their Confede<g ref="char:EOLhyphen"/>rates; and all such persons, being Irish Inhabitants, residing in the Town and Parish where such offences were done and committed, and are Popish Recusan<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, that did not aid and assist such person or persons that were so robbed, spoiled, imprisoned and abused, as abovesaid; or that did not timely make Hue and Cry after such offenders, to be committed to safe custody for the space of six days; and if during that time the said offenders be not apprehended and taken, that then all such persons inhabiting and residing in the said Town and Parish, not aiding the persons to whom such trespasses were done, nor making such Hue and Cry, as abovesaid, they, their Wives, Children and servants shall and are hereby Declared to be persons transplantable into the said Province of <hi>Connaught</hi> and County of <hi>Clare.</hi> And the said Officer commanding in chief, the said Sherif, Iustice or Iustices of the Peace, or any two or more of them, whereof the said Of<g ref="char:EOLhyphen"/>ficer commanding in chief to be one, than may, and are hereby authorized and required to cause such persons, their Wives, Chil<g ref="char:EOLhyphen"/>dren and servants to go into <hi>Connaught</hi> and Countie of <hi>Clare;</hi> there to be ordered, settled and provided for, as other persons transplant<g ref="char:EOLhyphen"/>able are to be dealtwithall, or provided for, in the said Province of <hi>Connaught</hi> and County of <hi>Clare.</hi>
+            </p>
+            <closer>
+               <dateline>Dated at DUELIN <date>the nineteenth day of <hi>April.</hi> 1655.</date>
+               </dateline>
+               <signed>Thomas Herbert Clerk of the Council.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license" subtype="order_to_print">
+            <p>ORdered by the Lord Deputy and Council, that this Declaration be forthwith Printed and published.</p>
+            <closer>
+               <signed>Thomas Herbert Clerk of the Council.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>¶ <hi>DƲBLIN,</hi> Printed by WILLIAM BLADEN, 1655.</p>
+            <pb facs="tcp:184952:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
